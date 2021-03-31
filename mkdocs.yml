@@ -1,0 +1,7 @@
+site_name: iDEC Wiki Test
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme: readthedocs
