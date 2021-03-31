@@ -5,3 +5,6 @@ nav:
     - About: about.md
 
 theme: readthedocs
+
+repo_url: https://github.com/tyhho/mkdocs-test
+
