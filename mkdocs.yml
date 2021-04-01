@@ -8,3 +8,4 @@ theme: readthedocs
 
 repo_url: https://github.com/tyhho/mkdocs-test
 
+edit_url: blob/main/docs/
